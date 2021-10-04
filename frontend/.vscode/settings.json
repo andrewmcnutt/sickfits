@@ -16,5 +16,8 @@
   "editor.codeActionsOnSave": {
     "source.fixAll": false
   },
-  "prettier.disableLanguages": ["javascript", "javascriptreact"]
+  "prettier.disableLanguages": [
+    "javascript",
+    "javascriptreact"
+  ],
 }
